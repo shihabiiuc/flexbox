@@ -1,7 +1,7 @@
 # Learn CSS Flexbox by example projects
 This repository contains a couple of example projects using CSS **flexbox**. These projects will give you a clear concept of flexbox and how all things are working together.
 
-This repository is a part of my blog post: [Shihabiiuc.Com/Flexbox](https://shihabiiuc.com/flexbox/)
+This repository is a part of my blog post: :bulb: [Shihabiiuc.Com/Flexbox](https://shihabiiuc.com/flexbox/)
 
 _And the post contains video explanations, text documents, etc. This is one of the posts that you will ever need to understand flexbox clearly._
 
@@ -13,6 +13,9 @@ In this project, I created the following examples that will touch mostly used fl
 - How to create a gallery layout using flexbox?
 - How to create nested rows & columns in flexbox?
 - How to create a header navigation menu using flexbox?
+
+### See live page (GitHub Pages)
+:evergreen_tree: [Live page link](https://shihabiiuc.github.io/flexbox/)
 
 ## Who I Am Anyway
 I'm web developer, designer & self-taught programmer and I lead a team which involves SEO gurus & content writers. You can think of me as your **one stop shop** for _Web Design & Development._
